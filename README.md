@@ -1,18 +1,20 @@
 # Operating-System
 
 Overview:
+-
 What is an Operating System?
-Ans: An Operating System (OS) is an interface between a computer user and computer hardware.
+- An Operating System (OS) is an interface between a computer user and computer hardware.
 
 Services provided by an Operating System?
 
 Types of OS?
-Batched OS:
-Time-Sharing OS:
-Distributed OS:
-Network OS:
-Real-Time OS:
- 
+-
+- Batched OS:
+- Time-Sharing OS:
+- Distributed OS:
+- Network OS:
+- Real-Time OS:
+
 RAM vs ROM
 SRAM vs DRAM
 PROM, EPROM & EEROM
