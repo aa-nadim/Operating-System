@@ -3,9 +3,13 @@
 Overview:
 -
 What is an Operating System?
-- An Operating System (OS) is an interface between a computer user and computer hardware.
+-
+An Operating System (OS) is an interface between a computer user and computer hardware.
 
-Services provided by an Operating System?
+- [What happens when we turn on computer?](https://github.com/aa-nadim/operating-system/tree/main/what-happens-when-we-turn-on-computer)
+
+- [Services provided by an Operating System?](https://github.com/aa-nadim/operating-system/tree/main/services-provided-by-an-operating-system)
+
 
 Types of OS?
 -
@@ -137,7 +141,7 @@ Deadlocks
 -
 
 
-
+`https://drive.google.com/file/d/1FAxjhyIlsGGouIyCPyR3xqKVgU7mhEmQ/view`
 
 
 
