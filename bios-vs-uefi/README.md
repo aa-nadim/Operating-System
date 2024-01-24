@@ -1,5 +1,7 @@
 # BIOS vs UEFI
 
+`https://www.howtogeek.com/56958/htg-explains-how-uefi-will-replace-the-bios/`
+
 # BIOS (Basic Input/Output System):
 
 - Legacy System:
