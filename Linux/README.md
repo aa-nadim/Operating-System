@@ -16,3 +16,7 @@ To see CPU size and No. of Cores:
 To edit a file 
 -
 - `nano test.txt`
+
+To create a new empty file
+-
+- `touch test.txt`
