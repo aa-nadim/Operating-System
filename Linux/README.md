@@ -12,3 +12,7 @@ To see RAM Size:
 To see CPU size and No. of Cores:
 -
 - `lscpu`
+
+To edit a file 
+-
+- `nano test.txt`
